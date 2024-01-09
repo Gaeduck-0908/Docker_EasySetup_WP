@@ -1,2 +1,5 @@
 # Docker_EasySetup_WP
-Docker Easy Setup WordPress
+- Run
+```docker
+docker-compose -f .\Docker-Compose.yml up
+```
